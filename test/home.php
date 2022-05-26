@@ -11,7 +11,7 @@
             <p><span>votre nom:</span><?php echo $_GET['nom'];?></p>
             <p><span>votre prénom:</span><?php echo $_GET['prenom'];?></p>
             <p><span>votre email:</span><?php echo $_GET['email'];?></p>
-            <p><span>votre age:</span><?php echo $_GET['age'];?></p>
+            <p><span>vous avez:</span><?php echo $_GET['age'] .'ans';?></p>
         </div>
 </body>
 </html>
