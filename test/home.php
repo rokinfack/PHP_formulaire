@@ -24,5 +24,6 @@
             <p><span>vous avez</span>:<?php echo $_GET['age'] .'ans';?></p>
         
         </div>
+        <?php include('unsers.php') ?>
 </body>
 </html>
