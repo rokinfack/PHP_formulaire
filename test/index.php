@@ -11,6 +11,7 @@
         <meta charset="utf-8" />
     </head>
     <body>
+        <h1>Creaction d'un formulaire avec PHP et phpMyAdmin</h1>
         
         <form action="home.php" method="GET">
             <div>

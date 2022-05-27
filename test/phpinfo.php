@@ -1,3 +1,3 @@
 <?php
-phpinfo();
+<a href="index.php">accueil</a>
 ?>
