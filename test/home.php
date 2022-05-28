@@ -17,11 +17,12 @@
                 }
                 ?>
             
-            <h2>rappel de vos données </h2>
+            <h2>rappel de vos coordonnées </h2>
             <p><span>votre nom</span>:<?php echo $_GET['nom'];?></p>
             <p><span>votre prénom</span>:<?php echo $_GET['prenom'];?></p>
             <p><span>votre email</span>:<?php echo $_GET['email'];?></p>
             <p><span>vous avez</span>:<?php echo $_GET['age'] .'ans';?></p>
+            <p>Rasurez-vous bien que vos coordonnées sont bien ecrites avant de continuer !</br> Merci pour votre confiance!</p>
         
         </div>
         <?php include('unsers.php') ?>
